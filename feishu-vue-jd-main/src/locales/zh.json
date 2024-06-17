@@ -1,0 +1,33 @@
+{
+  "UI":{
+    "title":"京东助手",
+    "tutorial":"查看教程",
+    "jd_account":"京东账号授权",
+    "jd_login":"登录京东",
+    "query_settings":"账单查询设置",
+    "start_time":"开始时间：",
+    "end_time":"结束时间：",
+    "select_settings":"数据选择设置",
+    "checkAll":"全选",
+    "writeData":"导入订单数据"
+  },
+  "placeholder": {
+    "start_time": "选择开始时间",
+    "end_time":"选择结束时间"
+  },
+  "infoTip": {
+    "start": "插件运行中...",
+    "end": "运行结束",
+    "null_error": "请至少选择一种以上的数据",
+    "process": "插件运行进度：" 
+  },
+  "info":{
+    "BillID":"订单ID",
+    "Name":"订单名",
+    "Data":"订单数据",
+    "Time":"订单时间",
+    "invoice_link":"发票链接",
+    "product_link":"订单链接",
+    "Price":"订单价格"
+  }
+} 

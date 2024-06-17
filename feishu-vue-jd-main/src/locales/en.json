@@ -1,0 +1,33 @@
+{
+  "UI": {
+    "title": "JD Assistant",
+    "tutorial": "View Tutorial",
+    "jd_account": "JD Account Login",
+    "jd_login": "Login to JD",
+    "query_settings": "Query Settings",
+    "start_time": "Start Time: ",
+    "end_time": "End Time: ",
+    "select_settings": "Data Selection",
+    "checkAll": "Select All",
+    "writeData": "Import Order Data"
+  },
+  "placeholder": {
+    "start_time": "Select Start Time",
+    "end_time": "Select End Time"
+  },
+  "infoTip": {
+    "start": "Plugin is running...",
+    "end": "Operation completed",
+    "null_error": "Please select at least one data type",
+    "process": "Plugin progress:"
+  },
+  "info": {
+    "BillID": "Order ID",
+    "Name": "Order Name",
+    "Data": "Order Data",
+    "Time": "Order Time",
+    "invoice_link": "Invoice Link",
+    "product_link": "Product Link",
+    "Price": "Order Price"
+  }
+}
